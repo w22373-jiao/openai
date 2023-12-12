@@ -1,2 +1,3 @@
 pip install --upgrad openai
 
+python setuo.py install
